@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c6vcq7okyww6dv3cdmkkgwo2rq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **eduuramirooo/eduuramirooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
