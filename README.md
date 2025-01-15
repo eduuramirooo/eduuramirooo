@@ -2,7 +2,7 @@
 
 --Edu Ramiro
 - 🖥 I’m currently studying Web Application Development 
-- 🌱 I’m currently learning PHP, JS
+- 🌱 I’m currently learning Laravel, Spring Boot
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c6vcq7okyww6dv3cdmkkgwo2rq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
